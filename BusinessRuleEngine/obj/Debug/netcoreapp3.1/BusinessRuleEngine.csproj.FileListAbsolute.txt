@@ -1,0 +1,12 @@
+D:\OrderProcessing\BusinessRuleEngine\bin\Debug\netcoreapp3.1\BusinessRuleEngine.deps.json
+D:\OrderProcessing\BusinessRuleEngine\bin\Debug\netcoreapp3.1\BusinessRuleEngine.dll
+D:\OrderProcessing\BusinessRuleEngine\bin\Debug\netcoreapp3.1\BusinessRuleEngine.pdb
+D:\OrderProcessing\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.AssemblyInfoInputs.cache
+D:\OrderProcessing\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.AssemblyInfo.cs
+D:\OrderProcessing\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.dll
+D:\OrderProcessing\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.pdb
+D:\OrderProcessing\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.csproj.CoreCompileInputs.cache
+D:\OrderProcessing\BusinessRuleEngine\bin\Debug\netcoreapp3.1\ProductDataModel.dll
+D:\OrderProcessing\BusinessRuleEngine\bin\Debug\netcoreapp3.1\ProductDataModel.pdb
+D:\OrderProcessing\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.csprojAssemblyReference.cache
+D:\OrderProcessing\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.csproj.CopyComplete

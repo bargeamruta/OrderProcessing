@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LO3m/Mm6ED3r1PnPlzJsuSHKnOKsBEcuinMm+z+ZLvG5gAIoBBLHya4gBB/Z43iL+20WFEA9dORARD0Jst6XCw==",
+  "success": true,
+  "projectFilePath": "D:\\OrderProcessing\\OrderProcessing\\OrderProcessing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abarge\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.8\\microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+    "C:\\Users\\abarge\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

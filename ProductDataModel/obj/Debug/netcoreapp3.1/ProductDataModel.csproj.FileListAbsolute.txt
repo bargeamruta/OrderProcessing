@@ -1,0 +1,8 @@
+D:\OrderProcessing\ProductDataModel\bin\Debug\netcoreapp3.1\ProductDataModel.deps.json
+D:\OrderProcessing\ProductDataModel\bin\Debug\netcoreapp3.1\ProductDataModel.dll
+D:\OrderProcessing\ProductDataModel\bin\Debug\netcoreapp3.1\ProductDataModel.pdb
+D:\OrderProcessing\ProductDataModel\obj\Debug\netcoreapp3.1\ProductDataModel.AssemblyInfoInputs.cache
+D:\OrderProcessing\ProductDataModel\obj\Debug\netcoreapp3.1\ProductDataModel.AssemblyInfo.cs
+D:\OrderProcessing\ProductDataModel\obj\Debug\netcoreapp3.1\ProductDataModel.csproj.CoreCompileInputs.cache
+D:\OrderProcessing\ProductDataModel\obj\Debug\netcoreapp3.1\ProductDataModel.dll
+D:\OrderProcessing\ProductDataModel\obj\Debug\netcoreapp3.1\ProductDataModel.pdb
